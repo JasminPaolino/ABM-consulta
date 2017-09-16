@@ -1,0 +1,14 @@
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\bin\Debug\FormulariosABM.exe.config
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\bin\Debug\FormulariosABM.exe
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\bin\Debug\FormulariosABM.pdb
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\bin\Debug\EntityFramework.dll
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\bin\Debug\EntityFramework.xml
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\obj\Debug\FormulariosABM.csprojResolveAssemblyReference.cache
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\obj\Debug\FormulariosABM.Form1.resources
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\obj\Debug\FormulariosABM.Form2.resources
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\obj\Debug\FormulariosABM.Properties.Resources.resources
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\obj\Debug\FormulariosABM.csproj.GenerateResource.Cache
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\obj\Debug\FormulariosABM.exe
+c:\users\jasmin\documents\visual studio 2015\Projects\FormulariosABM\FormulariosABM\obj\Debug\FormulariosABM.pdb
